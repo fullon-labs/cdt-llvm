@@ -3,4 +3,4 @@
 	url = https://github.com/AntelopeIO/cdt-clang
 [submodule "tools/lld"]
 	path = tools/lld
-	url = https://github.com/AntelopeIO/cdt-lld
+	url = https://github.com/fullon-labs/cdt-lld
